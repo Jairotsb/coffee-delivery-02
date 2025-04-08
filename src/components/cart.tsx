@@ -45,12 +45,12 @@ export function Cart() {
       <VStack mt={4}>
         <HStack w="full" alignItems="center" justifyContent="space-between">
           <Text>Subtotal</Text>
-          <Text>$ {subTotal.toFixed(2)}</Text>
+          <Text>R$ {subTotal.toFixed(2)}</Text>
         </HStack>
 
         <HStack w="full" alignItems="center" justifyContent="space-between">
           <Text>Deliver fees</Text>
-          <Text>$ {FEES}</Text>
+          <Text>R$ {FEES}</Text>
         </HStack>
 
         <HStack w="full" alignItems="center" justifyContent="space-between">
@@ -58,7 +58,7 @@ export function Cart() {
             Order total
           </Text>
           <Text as="strong" fontSize={24}>
-            $ {totalOrder.toFixed(2)}
+            R$ {totalOrder.toFixed(2)}
           </Text>
         </HStack>
 

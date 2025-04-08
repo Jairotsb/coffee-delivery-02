@@ -118,6 +118,7 @@ export function CoffeeCard({ coffee }: CoffeeProps) {
               fontFamily="'Baloo 2', cursive"
               fontWeight={900}
               color={theme.colors.base.text}
+              marginRight={1}
             >
               <Text
                 as="span"
@@ -125,7 +126,7 @@ export function CoffeeCard({ coffee }: CoffeeProps) {
                 fontSize={18}
                 fontWeight={500}
               >
-                $&nbsp;
+                R$
               </Text>
               {coffee?.price ?? '0.00'}
             </Text>

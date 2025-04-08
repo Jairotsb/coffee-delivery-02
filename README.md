@@ -49,4 +49,3 @@ Once setup is done, project can be executed by running ` yarn dev ` or by runnin
 
 Figma's layout  [here.](https://www.figma.com/file/2iH6UUBPgcPkRco1kNRK8P/Coffee-Delivery-Copy)
 
-> Developed on mobile device using Termux.  :D

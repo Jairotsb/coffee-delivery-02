@@ -19,7 +19,7 @@ export const coffees = [
   {
     name: 'American',
     description: 'Diluted Expresso, less intense than the default Expresso',
-    price: 10.9,
+    price: '10,99',
     image: Americano,
     id: 'american-38d8',
     categories: ['standard'],
@@ -27,7 +27,7 @@ export const coffees = [
   {
     name: 'Arabian',
     description: 'Drink made with arabian coffee grainsand spices',
-    price: 35.56,
+    price: '35,56',
     image: Arabe,
     id: 'arabian-dh3i',
     categories: ['special'],
@@ -35,7 +35,7 @@ export const coffees = [
   {
     name: 'Au Latte',
     description: 'Mixed half of default Expresso and half of vaporized milk',
-    price: 18.9,
+    price: '18,90',
     image: AuLatte,
     id: 'au-latte-ir8g',
     categories: ['standard', 'milky'],
@@ -44,7 +44,7 @@ export const coffees = [
     name: 'Capuccino',
     description:
       'Drink with canela made with equal doses of coffee, milk and creamy foam',
-    price: 8.9,
+    price: '8,90',
     image: Capuccino,
     id: 'capuccino-918j',
     categories: ['standard', 'milky'],
@@ -52,7 +52,7 @@ export const coffees = [
   {
     name: 'Cuban',
     description: 'Iced drink made of Expresso coffee, rum, milk cream and mint',
-    price: 7.56,
+    price: '12,99',
     image: Cubano,
     id: 'cuban-e77d',
     categories: ['special', 'alcoholic', 'iced'],
@@ -60,7 +60,7 @@ export const coffees = [
   {
     name: 'Expresso',
     description: 'The default coffee, made with hot water and ground grains',
-    price: 9.99,
+    price: '9,99',
     image: Expresso,
     id: 'expresso-8e7h',
     categories: ['standard'],
@@ -68,7 +68,7 @@ export const coffees = [
   {
     name: 'Expresso Cream',
     description: 'Default Expresso coffee with creamy foam',
-    price: 12.67,
+    price: '10,99',
     image: ExpressoCream,
     id: 'expresso-cream-2f8c',
     categories: ['standard'],
@@ -76,7 +76,7 @@ export const coffees = [
   {
     name: 'Havaian',
     description: 'Sweetened drink made with coffee and coconut milk',
-    price: 12.65,
+    price: '12,99',
     image: Havaiano,
     id: 'havaian-2r9l',
     categories: ['special'],
@@ -84,7 +84,7 @@ export const coffees = [
   {
     name: 'Hot Chocolatte',
     description: 'Drink made with chocolate dissolved in hot milk and coffee',
-    price: 3.45,
+    price: '3,45',
     image: HotChocolatte,
     id: 'hpt-choco-me7j',
     categories: ['special', 'milky'],
@@ -92,7 +92,7 @@ export const coffees = [
   {
     name: 'Iced Coffee',
     description: 'Drink prepared with Expresso coffee and ice cubes',
-    price: 7.5,
+    price: '7,50',
     image: IcedCoffee,
     id: 'iced-coffee-o28d',
     categories: ['standard', 'iced'],
@@ -100,7 +100,7 @@ export const coffees = [
   {
     name: 'Ireland',
     description: 'Drink based on coffee, ireland whisky, sugar and chantilly',
-    price: 14.6,
+    price: '14,60',
     image: Ireland,
     id: 'ireland-39rj',
     categories: ['special', 'alcoholic'],
@@ -108,7 +108,7 @@ export const coffees = [
   {
     name: 'Latte',
     description: 'A dose of Expresso with twice the milk and creamy foam',
-    price: 8.99,
+    price: '8,99',
     image: Latte,
     id: 'latte-o28s',
     categories: ['standard', 'milky'],
@@ -116,7 +116,7 @@ export const coffees = [
   {
     name: 'Macchiatto',
     description: 'Expresso coffee mixed with hot water and foam',
-    price: 16.75,
+    price: '16,75',
     image: Macchiatto,
     id: 'macchiatto-3r99',
     categories: ['standard', 'milky'],
@@ -124,7 +124,7 @@ export const coffees = [
   {
     name: 'Mochaccino',
     description: 'Expresso coffee with chocolate syrup, low milk and foam',
-    price: 11.89,
+    price: '11,89',
     image: Mochaccino,
     id: 'mochaccino-928r',
     categories: ['standard', 'milky'],
